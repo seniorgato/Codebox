@@ -1,0 +1,44 @@
+Scope Document
+Computer Science Club
+10/16/15
+Web Development for Arduino Drone Website
+•	Home 
+•	About us
+•	How To
+•	Download links
+•	Contact Us
+
+Bootstrap Themes
+Web Hosting 
+
+Home
+ Home is the landing page of the website. Once users enter the url to the address bar, 
+ this is the page that they will be redirected to. Home is the brochure of the site. 
+ It talks about the drone, and the technologies that were used to create it. At this 
+ point we do not have any further information about the page, other than the fact that
+ it talks about the drone
+
+About Us
+Is the biographical site, talks about the team, and the process that each member went
+through blah. Each team member has photo and a teaser text, that when clicked on, redirects
+to the main biography.
+
+How To
+Kenny is the best because he provided what we want to talk about. The how to page will be 
+a one page step by step process on how to build the Arduino drone advertised on the websites.
+Any references to apis, repositories, will be on this page.
+
+Download Links
+The Download Links page is basically a tile based span 3/3/3, type downloads location, to where 
+each tile will have a download option available when clicked. There will also be a picture that
+previews the code or file.
+
+Contact Us
+TBA
+
+Bootstrap Theme
+
+Web Hosting
+
+
+
